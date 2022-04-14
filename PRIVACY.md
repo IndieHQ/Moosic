@@ -5,6 +5,7 @@
 • Discord Channel IDs
 • Patreon User ID
 • Patreon Pledge Data
+
 2. Opt-in
 
 • Any per-server settings you might have changed
