@@ -53,6 +53,17 @@ The following data is deleted automatically when you remove Moosic from you serv
 • Any per-server settings you might have changed<br>
 </p>
 </div>
+<p class="font-semibold text-gray-200">1. Opt-out</p>
+<p class="ml-4">
+The following data will be deleted when we get your request for opting-out. All the below data will be deleted and also proofs will be shown to you after deletion.
+</p>
+<p class="ml-8 mt-2">
+• Discord Server IDs<br>
+• Discord Channel IDs<br>
+• Discord User IDs<br>
+• Any per-server settings you might have changed<br>
+</p>
+</div>
 <p class="font-semibold text-gray-200 text-xl mt-4">
 Extra
 </p>
@@ -61,9 +72,9 @@ Extra
 <p class="ml-4">
 With nobody. We do not share or sell any of your information.
 </p>
-<p class="font-semibold text-gray-200 mt-4">2. How can I contact you?</p>
+<p class="font-semibold text-gray-200 mt-4">2. How can I opt-out or contact you?</p>
 <p class="ml-4">
-You can contact us by sending an email to support@moosicbot.xyz
+You can contact us by sending an email to support@moosicbot.xyz or join our support server and dm any of the Staffs or Developers
 </p>
 </div>
 </div>
